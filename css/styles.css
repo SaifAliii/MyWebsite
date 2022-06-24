@@ -15,7 +15,7 @@ a:hover
 }
 
 body {
-  margin-top: 30px;
+  margin-top: 1.875rem;
   background-color: #d5e5e0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -23,8 +23,10 @@ body {
 
 .bottom-cloud {
   position: absolute;
-  bottom: 250px;
-  left: 300px;
+  bottom: 35.625%;
+  left: 12.5%;
+  height: 10%;
+  width: 10%;
 }
 
 .btn {
@@ -74,7 +76,6 @@ body {
   height: 25%;
   width: 25%;
   float: left;
-  padding: 30px;
 }
 
 .contact-message {
@@ -114,8 +115,8 @@ hr {
 .land {
   padding: 100px;
   padding-bottom: 0px;
-  height: 400px;
-  width: 1000px;
+  height: 25%;
+  width: 62.5%;
 }
 
 .middle-container {
@@ -123,13 +124,15 @@ hr {
 }
 
 .my-bitmoji {
-  height: 150px;
-  width: 150px;
+  height: 9.375%;
+  width: 9.375%;
 }
 
 .profile {
   position: relative;
-  top: 60px
+  top: 1.5625rem;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.625rem;
 }
 
 .skill-row {
@@ -142,8 +145,10 @@ hr {
 
 .top-cloud {
   position: absolute;
-  top: 250px;
-  right: 310px;
+  top: 25.625%;
+  right: 19.375%;
+  height: 10%;
+  width: 10%;
 }
 
 .topcontainer {
